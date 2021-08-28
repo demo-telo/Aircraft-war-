@@ -1,1 +1,1 @@
-# 简单的飞机大战程序
+# Simple Aircraft war code by python.
